@@ -1,0 +1,24 @@
+[
+    {
+        "imageUrl": null,
+        "example": "Individuell ränta från 2,95% - 24%. Exempel: 5,3%. 70 000 kr på 15 år. Eff. ränta 6,54 %. Tot. belopp 108 346 kr. Kostn./mån: 600 kr. Startavg. 495 kr. Avikostn. 35 kr/mån.",
+        "rating": 20.030000686645508,
+        "minLoanAmount": 5000,
+        "minIncomeRequired": 150000,
+        "minInterestRate": 2.950000047683716,
+        "minEffectiveRate": 3.700000047683716,
+        "maxInterestRate": 24,
+        "minDuration": 12,
+        "localCitizenshipRequired": true,
+        "maxDuration": 180,
+        "bankId": true,
+        "minAge": 24,
+        "acceptPaymentRemarks": false,
+        "monthlyAdministrationFee": null,
+        "maxStartupFee": 495,
+        "mobileFriendly": true,
+        "maxEffectiveRate": 3.700000047683716,
+        "maxLoanAmount": 600000,
+        "fixedIncomeRequired": null
+    }
+]
