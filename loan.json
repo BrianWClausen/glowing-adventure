@@ -6,7 +6,7 @@
             "rating": 34,
             "imageUrl": "http://vmlcdn.com/prod/test/3b98c31f-0930-4500-8708-7d25e1850db5",
             "name": "lånlån",
-            "minage":18,
+            "minAge":18,
             "minLoanAmount":2000,
             "maxLoanAmount":10000,
             "minInterestRate":5,
