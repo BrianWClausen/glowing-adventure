@@ -11,7 +11,7 @@
             "maxLoanAmount":10000,
             "minInterestRate":5,
             "maxInterestRate":20,
-            "example": "Lån nu, temmelig mange penge, og ud kan kun få mere"
+            "example": "Lån nu og vind med samme sind"
 
         },
         "status": "ACTIVE",
@@ -31,7 +31,7 @@
             "maxLoanAmount":100000,
             "minInterestRate":5,
             "maxInterestRate":20,
-            "example": "Lån nu, temmelig mange penge, og ud kan kun få mere"
+            "example": "Den her tekst skal bare være anderledes"
 
         },
         "status": "ACTIVE",
@@ -58,26 +58,6 @@
         "trackingLink": "https://vmltracker.com/trk/click/?cid=6649",
         "vertical": "Loan",
         "order": 3
-    },
-    {
-        "id": "3649",
-        "name": "Lån til midtvejskrise",
-        "campaignDetails": {
-            "rating": 34,
-            "imageUrl": "http://vmlcdn.com/prod/test/3b98c31f-0930-4500-8708-7d25e1850db5",
-            "name": "Lånås",
-            "minAge":35,
-            "minLoanAmount":2000,
-            "maxLoanAmount":10000,
-            "minInterestRate":5,
-            "maxInterestRate":20,
-            "example": "Lån nu, temmelig mange penge, og ud kan kun få mere"
-
-        },
-        "status": "ACTIVE",
-        "trackingLink": "https://vmltracker.com/trk/click/?cid=6649",
-        "vertical": "Loan",
-        "order": 4
     }
   
 ]
