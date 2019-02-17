@@ -1,0 +1,84 @@
+[
+    {
+        "id": "6649",
+        "name": "Hurtigt ungdomslån",
+        "campaignDetails": {
+            "rating": 34,
+            "imageUrl": "http://vmlcdn.com/prod/test/3b98c31f-0930-4500-8708-7d25e1850db5",
+            "name": "lånlån",
+            "minAge":18,
+            "minLoanAmount":2000,
+            "maxLoanAmount":10000,
+            "minInterestRate":5,
+            "maxInterestRate":20,
+            "example": "Lån nu og vind med samme sind"
+
+        },
+        "status": "ACTIVE",
+        "trackingLink": "https://vmltracker.com/trk/click/?cid=6649",
+        "vertical": "Loan",
+        "order": 1
+    },
+    {
+        "id": "1649",
+        "name": "Nisselån",
+        "campaignDetails": {
+            "rating": 34,
+            "imageUrl": "http://vmlcdn.com/prod/test/3b98c31f-0930-4500-8708-7d25e1850db5",
+            "name": "Lånii",
+            "minAge":41,
+            "minLoanAmount":20000,
+            "maxLoanAmount":100000,
+            "minInterestRate":5,
+            "maxInterestRate":20,
+            "example": "Den her tekst skal bare være anderledes"
+
+        },
+        "status": "ACTIVE",
+        "trackingLink": "https://vmltracker.com/trk/click/?cid=6649",
+        "vertical": "Loan",
+        "order": 2
+    },
+    {
+        "id": "2649",
+        "name": "Lån til midaldrende",
+        "campaignDetails": {
+            "rating": 34,
+            "imageUrl": "http://vmlcdn.com/prod/test/3b98c31f-0930-4500-8708-7d25e1850db5",
+            "name": "Lån og tab",
+            "minAge":25,
+            "minLoanAmount":5000,
+            "maxLoanAmount":100000,
+            "minInterestRate":5,
+            "maxInterestRate":20,
+            "example": "Lån nu, temmelig mange penge, og ud kan kun få mere"
+
+        },
+        "status": "ACTIVE",
+        "trackingLink": "https://vmltracker.com/trk/click/?cid=6649",
+        "vertical": "Loan",
+        "order": 3
+    },
+    {
+        "id": "3649",
+        "name": "Lån til midtvejskrise",
+        "campaignDetails": {
+            "rating": 34,
+            "imageUrl": "http://vmlcdn.com/prod/test/3b98c31f-0930-4500-8708-7d25e1850db5",
+            "name": "Lånås",
+            "minAge":35,
+            "minLoanAmount":2000,
+            "maxLoanAmount":10000,
+            "minInterestRate":5,
+            "maxInterestRate":20,
+            "example": "Lån nu, temmelig mange penge, og ud kan kun få mere"
+
+        },
+        "status": "ACTIVE",
+        "trackingLink": "https://vmltracker.com/trk/click/?cid=6649",
+        "vertical": "Loan",
+        "order": 4
+    }
+  
+]
+    
